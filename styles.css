@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code here. */
+ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  padding: 0;
+}
+
+li img {
+  border-radius: 10px;
+  cursor: pointer;
+}
